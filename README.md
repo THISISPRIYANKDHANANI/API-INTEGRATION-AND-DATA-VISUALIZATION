@@ -74,14 +74,11 @@ A Streamlit app to visualize real-time weather data for multiple cities using th
 Mumbai, Delhi, Tokyo, New York
 ```
 
-## Screenshots
-
-_Add screenshots here if needed._
 
 ## License
 
 MIT License
 
 ---
-
-**Made with ❤️ using
+#output
+https://github.com/user-attachments/assets/ceff9892-9862-4a7f-8476-1d2b4392fba7
