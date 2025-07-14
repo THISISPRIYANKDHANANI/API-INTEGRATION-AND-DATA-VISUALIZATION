@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 
 # --- Config ---
-API_KEY = "3d3f044481f34d8242ee62b0c5f5ffe3"
+API_KEY = "here use your own api"
 API_BASE = "https://api.openweathermap.org/data/2.5/weather"
 
 # --- Function to fetch weather data ---
