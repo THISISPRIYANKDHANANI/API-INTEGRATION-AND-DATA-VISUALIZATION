@@ -83,6 +83,10 @@ MIT License
 #output
 
 ![img](https://github.com/user-attachments/assets/ceff9892-9862-4a7f-8476-1d2b4392fba7)
-![img](
-![img](
-![img](
+
+
+
+
+![img](https://github.com/user-attachments/assets/b88afed2-abec-4b24-bee5-d89a655f53ca)
+![img](https://github.com/user-attachments/assets/631a5b31-64e8-4c0e-bea0-6beda8dc9f72)
+![img](https://github.com/user-attachments/assets/ceff9892-9862-4a7f-8476-1d2b4392fba7)
